@@ -1,5 +1,5 @@
 #include <ESP32Servo.h>
-#include <DHT.h>// libreria Adafruit
+#include <DHdddddddT.h>// libreria Adafruit
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
